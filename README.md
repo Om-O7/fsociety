@@ -101,6 +101,26 @@ A Penetration Testing Framework, you will have every script that a hacker needs.
 
 # Installation
 
+#Installation Steps :
+
+step1:
+git clone https://github.com/Om-O7/fsociety.git
+
+step2:
+cd fsociety
+
+step3:
+ls
+
+step4:
+./install.sh
+
+step5:
+chmod +x fsociety.py
+
+step6:
+./fsociety.py
+
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
